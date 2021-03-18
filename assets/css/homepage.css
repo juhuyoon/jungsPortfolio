@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    font-size: 100%;
+}
+
+header {
+    /* display: flex; */
+    background-color: orange;
+}
+
+header ul{
+    display: flex;
+    justify-content: flex-end;
+    justify-content: space-between;
+    list-style: none;
+}
+
+p{
+    font-size: 16px;
+}
